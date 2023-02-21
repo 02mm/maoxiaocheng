@@ -1,0 +1,16 @@
+[2022-11-22 15:17:46] [WARNING]: 恢复会话失败: exchange_emp failed: 16 , 尝试使用正常流程登录. 
+[2022-11-22 15:18:02] [FATAL]: 扫码被用户取消. 
+[2022-11-22 15:18:20] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 15:18:20] [WARNING]: 将在 5秒 后继续. 
+[2022-11-22 15:18:44] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 15:27:27] [WARNING]: Bot已离线: 服务端强制下线. 
+[2022-11-22 15:27:30] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-11-22 15:27:33] [WARNING]: 尝试重连... 
+[2022-11-22 15:27:33] [WARNING]: 快速重连失败: exchange_emp failed: 16 
+[2022-11-22 15:27:33] [FATAL]: 快速重连失败, 扫码登录无法恢复会话. 
+[2022-11-22 15:42:14] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 15:42:14] [WARNING]: 将在 5秒 后继续. 
+[2022-11-22 15:42:19] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2022-11-22 15:42:37] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 15:42:50] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54418->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-22 15:42:51] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54418->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 

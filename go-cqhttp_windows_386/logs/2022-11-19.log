@@ -1,0 +1,28 @@
+[2022-11-19 14:01:26] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-19 14:08:20] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:63797->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-19 14:08:20] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:63797->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-19 14:08:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-19 14:12:02] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:63903->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-19 14:12:04] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:63903->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-19 14:17:21] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:63942->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-19 14:17:25] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:63942->127.0.0.1:8080: use of closed network connection 
+[2022-11-19 14:22:20] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:63998->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-19 14:22:23] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:63998->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-19 14:27:32] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:56714->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-19 14:27:34] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:56714->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-19 14:48:45] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:56781->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-19 14:48:50] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:56781->127.0.0.1:8080: use of closed network connection 
+[2022-11-19 15:10:18] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54275->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-19 15:10:20] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54275->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-19 15:12:21] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54657->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-19 15:12:25] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54657->127.0.0.1:8080: use of closed network connection 
+[2022-11-19 15:14:06] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54680->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-19 15:14:06] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54680->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-19 15:14:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-19 15:15:20] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54700->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-19 15:15:20] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54700->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-19 15:15:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-19 15:15:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-19 15:15:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-19 15:50:06] [WARNING]: 语音文件 7C1B6CD8AEC787542DB9539176E9E4B4.amr 下载失败: Get "http://grouptalk.c2c.qq.com": EOF 
+[2022-11-19 16:13:26] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54737->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 

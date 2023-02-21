@@ -1,0 +1,526 @@
+[2022-11-16 09:23:57] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-16 09:25:42] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:56592->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 09:25:44] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:56592->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 09:25:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 09:25:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 09:25:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 09:26:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 09:26:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 09:26:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 09:26:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 09:26:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 09:26:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 09:26:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 09:26:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 09:26:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 09:26:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 09:26:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 09:28:09] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:51373->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 09:28:09] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51373->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 09:30:54] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:51403->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 09:30:59] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51403->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 09:32:42] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:51368->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 09:32:44] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51368->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 09:33:35] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:51420->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 09:33:39] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51420->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 09:34:59] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:51446->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 09:35:00] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51446->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 09:38:05] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:51484->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 09:38:09] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51484->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 09:38:50] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:51702->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 09:38:54] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51702->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 09:49:33] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:51724->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 09:49:34] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51724->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 09:52:43] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52032->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 09:52:44] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52032->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 09:57:10] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52133->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 09:57:14] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52133->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 09:58:04] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:64037->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 09:58:09] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:64037->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 10:16:40] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:64058->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 10:16:40] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:64058->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 10:16:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 10:16:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 10:16:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 10:44:28] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-16 10:55:09] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:63540->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 10:55:09] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:63540->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 10:55:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 10:56:17] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:58217->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 10:56:19] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:58217->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 10:58:24] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:58253->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 10:58:24] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:58253->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 11:06:26] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:58298->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 11:06:29] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:58298->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 11:06:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 11:06:52] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:57859->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 11:06:54] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:57859->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 11:21:03] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:57876->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 11:21:04] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:57876->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 11:31:28] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:58188->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 11:31:29] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:58188->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 11:33:33] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:58517->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 11:33:33] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:58517->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 11:47:39] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.68.232:63533->125.39.196.158:8080: wsarecv: An established connection was aborted by the software in your host machine. 
+[2022-11-16 11:48:00] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.109.192.45:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 11:48:00] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.109.192.45:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 11:48:00] [WARNING]: Bot已离线: connection dropped by server. 
+[2022-11-16 11:48:03] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-11-16 11:48:06] [WARNING]: 尝试重连... 
+[2022-11-16 11:48:27] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.183.253:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 11:48:27] [WARNING]: 快速重连失败: dial tcp error: dial tcp 42.81.183.253:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 11:48:27] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 11:48:32] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.68.232:49888->119.147.190.171:443: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 11:48:45] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2022-11-16 11:48:45] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752241 
+[2022-11-16 11:48:45] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 540160048 
+[2022-11-16 11:48:45] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 542067469 
+[2022-11-16 11:49:00] [ERROR]: 登录时发生致命错误: Packet timed out 
+[2022-11-16 11:49:00] [WARNING]: 将在 3 秒后尝试重连. 重连次数：3/0 
+[2022-11-16 11:49:03] [WARNING]: 尝试重连... 
+[2022-11-16 11:49:03] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-16 14:45:18] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.68.232:58156->112.86.231.250:80: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 14:46:26] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-16 14:46:45] [FATAL]: open image cache failed: 文件被其他进程占用 
+[2022-11-16 14:48:11] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.68.232:60541->116.130.230.31:8080: wsarecv: An established connection was aborted by the software in your host machine. 
+[2022-11-16 14:48:32] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.102.191.164:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 14:48:32] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.102.191.164:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 14:48:32] [WARNING]: Bot已离线: connection dropped by server. 
+[2022-11-16 14:48:35] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-11-16 14:48:38] [WARNING]: 尝试重连... 
+[2022-11-16 14:48:38] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-16 15:04:48] [ERROR]: Protocol -> unexpected disconnect: read tcp 101.7.129.34:57387->42.81.194.23:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 15:07:23] [ERROR]: Protocol -> unexpected disconnect: read tcp 101.7.129.34:57200->42.81.179.158:80: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 15:07:44] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 59.83.208.153:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 15:07:44] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 59.83.208.153:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 15:07:44] [WARNING]: Bot已离线: connection dropped by server. 
+[2022-11-16 15:07:47] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-11-16 15:07:50] [WARNING]: 尝试重连... 
+[2022-11-16 15:07:51] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-16 15:09:20] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:59451->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 15:09:25] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:59451->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 15:09:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 15:12:32] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53653->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 15:12:35] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53653->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 15:14:06] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53720->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 15:14:10] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53720->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 15:20:59] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53750->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 15:21:00] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53750->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 15:21:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 15:26:34] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54005->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 15:26:35] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54005->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 15:26:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 15:29:19] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54139->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 15:29:20] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54139->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 15:30:17] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54187->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 15:30:20] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54187->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 15:51:34] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54243->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 15:51:35] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54243->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 15:51:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 15:51:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 15:51:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 15:55:18] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:61705->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 15:55:20] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61705->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 15:59:31] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:61785->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 15:59:35] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61785->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 16:05:27] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.68.232:52295->163.177.30.25:443: wsarecv: An established connection was aborted by the software in your host machine. 
+[2022-11-16 16:05:48] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 157.148.54.16:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:05:48] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 157.148.54.16:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:05:48] [WARNING]: Bot已离线: connection dropped by server. 
+[2022-11-16 16:05:51] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-11-16 16:05:54] [WARNING]: 尝试重连... 
+[2022-11-16 16:06:15] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 116.130.229.172:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:06:15] [WARNING]: 快速重连失败: dial tcp error: dial tcp 116.130.229.172:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:06:15] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:06:37] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 112.80.130.123:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:06:37] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 112.80.130.123:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:06:37] [WARNING]: 将在 3 秒后尝试重连. 重连次数：3/0 
+[2022-11-16 16:06:40] [WARNING]: 尝试重连... 
+[2022-11-16 16:07:01] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 157.148.54.141:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:07:01] [WARNING]: 快速重连失败: dial tcp error: dial tcp 157.148.54.141:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:07:01] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:07:23] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 220.194.118.217:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:07:23] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 220.194.118.217:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:07:23] [WARNING]: 将在 3 秒后尝试重连. 重连次数：4/0 
+[2022-11-16 16:07:26] [WARNING]: 尝试重连... 
+[2022-11-16 16:07:47] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 59.83.208.153:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:07:47] [WARNING]: 快速重连失败: dial tcp error: dial tcp 59.83.208.153:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:07:47] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:08:09] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 163.177.30.25:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:08:09] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 163.177.30.25:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:08:09] [WARNING]: 将在 3 秒后尝试重连. 重连次数：5/0 
+[2022-11-16 16:08:12] [WARNING]: 尝试重连... 
+[2022-11-16 16:08:33] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 125.39.196.243:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:08:33] [WARNING]: 快速重连失败: dial tcp error: dial tcp 125.39.196.243:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:08:33] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:08:56] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 116.147.18.244:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:08:56] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 116.147.18.244:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:08:56] [WARNING]: 将在 3 秒后尝试重连. 重连次数：6/0 
+[2022-11-16 16:08:59] [WARNING]: 尝试重连... 
+[2022-11-16 16:09:20] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 125.39.196.236:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:09:20] [WARNING]: 快速重连失败: dial tcp error: dial tcp 125.39.196.236:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:09:20] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:09:42] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.187.183.243:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:09:42] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 42.187.183.243:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:09:42] [WARNING]: 将在 3 秒后尝试重连. 重连次数：7/0 
+[2022-11-16 16:09:45] [WARNING]: 尝试重连... 
+[2022-11-16 16:10:06] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 116.130.229.208:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:10:06] [WARNING]: 快速重连失败: dial tcp error: dial tcp 116.130.229.208:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:10:06] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:10:28] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 119.147.190.138:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:10:28] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 119.147.190.138:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:10:28] [WARNING]: 将在 3 秒后尝试重连. 重连次数：8/0 
+[2022-11-16 16:10:31] [WARNING]: 尝试重连... 
+[2022-11-16 16:10:52] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.179.158:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:10:52] [WARNING]: 快速重连失败: dial tcp error: dial tcp 42.81.179.158:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:10:52] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:11:14] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 117.62.243.229:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:11:14] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 117.62.243.229:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:11:14] [WARNING]: 将在 3 秒后尝试重连. 重连次数：9/0 
+[2022-11-16 16:11:17] [WARNING]: 尝试重连... 
+[2022-11-16 16:11:38] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.232.67.156:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:11:38] [WARNING]: 快速重连失败: dial tcp error: dial tcp 120.232.67.156:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:11:38] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:12:00] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 157.148.55.96:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:12:00] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 157.148.55.96:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:12:00] [WARNING]: 将在 3 秒后尝试重连. 重连次数：10/0 
+[2022-11-16 16:12:03] [WARNING]: 尝试重连... 
+[2022-11-16 16:12:24] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 123.151.54.194:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:12:24] [WARNING]: 快速重连失败: dial tcp error: dial tcp 123.151.54.194:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:12:24] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:12:46] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.102.191.164:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:12:46] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 180.102.191.164:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:12:46] [WARNING]: 将在 3 秒后尝试重连. 重连次数：11/0 
+[2022-11-16 16:12:49] [WARNING]: 尝试重连... 
+[2022-11-16 16:13:10] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.194.23:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:13:10] [WARNING]: 快速重连失败: dial tcp error: dial tcp 42.81.194.23:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:13:10] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:13:32] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 183.47.106.14:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:13:32] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 183.47.106.14:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:13:32] [WARNING]: 将在 3 秒后尝试重连. 重连次数：12/0 
+[2022-11-16 16:13:35] [WARNING]: 尝试重连... 
+[2022-11-16 16:13:56] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.109.192.45:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:13:56] [WARNING]: 快速重连失败: dial tcp error: dial tcp 180.109.192.45:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:13:56] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:14:18] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.194.99:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:14:18] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.194.99:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:14:18] [WARNING]: 将在 3 秒后尝试重连. 重连次数：13/0 
+[2022-11-16 16:14:21] [WARNING]: 尝试重连... 
+[2022-11-16 16:14:42] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 183.47.117.157:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:14:42] [WARNING]: 快速重连失败: dial tcp error: dial tcp 183.47.117.157:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:14:42] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:15:04] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.101.246.26:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:15:04] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 180.101.246.26:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:15:04] [WARNING]: 将在 3 秒后尝试重连. 重连次数：14/0 
+[2022-11-16 16:15:07] [WARNING]: 尝试重连... 
+[2022-11-16 16:15:28] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 123.151.54.150:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:15:28] [WARNING]: 快速重连失败: dial tcp error: dial tcp 123.151.54.150:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:15:28] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:15:50] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 116.130.230.31:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:15:50] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 116.130.230.31:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:15:50] [WARNING]: 将在 3 秒后尝试重连. 重连次数：15/0 
+[2022-11-16 16:15:53] [WARNING]: 尝试重连... 
+[2022-11-16 16:16:14] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 106.55.124.211:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:16:14] [WARNING]: 快速重连失败: dial tcp error: dial tcp 106.55.124.211:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:16:14] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:16:36] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.187.183.40:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:16:36] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 42.187.183.40:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:16:36] [WARNING]: 将在 3 秒后尝试重连. 重连次数：16/0 
+[2022-11-16 16:16:39] [WARNING]: 尝试重连... 
+[2022-11-16 16:17:00] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 106.55.127.172:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:17:00] [WARNING]: 快速重连失败: dial tcp error: dial tcp 106.55.127.172:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:17:00] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:17:23] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.102.111.213:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:17:23] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 180.102.111.213:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:17:23] [WARNING]: 将在 3 秒后尝试重连. 重连次数：17/0 
+[2022-11-16 16:17:26] [WARNING]: 尝试重连... 
+[2022-11-16 16:17:47] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.183.253:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:17:47] [WARNING]: 快速重连失败: dial tcp error: dial tcp 42.81.183.253:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:17:47] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:18:09] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.187.183.40:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:18:09] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 42.187.183.40:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:18:09] [WARNING]: 将在 3 秒后尝试重连. 重连次数：18/0 
+[2022-11-16 16:18:12] [WARNING]: 尝试重连... 
+[2022-11-16 16:18:33] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 125.39.196.158:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:18:33] [WARNING]: 快速重连失败: dial tcp error: dial tcp 125.39.196.158:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:18:33] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:18:55] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 183.47.99.24:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:18:55] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 183.47.99.24:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:18:55] [WARNING]: 将在 3 秒后尝试重连. 重连次数：19/0 
+[2022-11-16 16:18:58] [WARNING]: 尝试重连... 
+[2022-11-16 16:19:19] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.192.168:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:19:19] [WARNING]: 快速重连失败: dial tcp error: dial tcp 42.81.192.168:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:19:19] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:19:41] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 222.94.109.78:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:19:41] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 222.94.109.78:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:19:41] [WARNING]: 将在 3 秒后尝试重连. 重连次数：20/0 
+[2022-11-16 16:19:44] [WARNING]: 尝试重连... 
+[2022-11-16 16:20:05] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.232.18.213:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:20:05] [WARNING]: 快速重连失败: dial tcp error: dial tcp 120.232.18.213:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:20:05] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:20:27] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-16 16:20:27] [WARNING]: 将在 3 秒后尝试重连. 重连次数：21/0 
+[2022-11-16 16:20:30] [WARNING]: 尝试重连... 
+[2022-11-16 16:20:51] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-16 16:20:51] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:21:13] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-16 16:21:13] [WARNING]: 将在 3 秒后尝试重连. 重连次数：22/0 
+[2022-11-16 16:21:16] [WARNING]: 尝试重连... 
+[2022-11-16 16:21:37] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-16 16:21:37] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:21:59] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-16 16:21:59] [WARNING]: 将在 3 秒后尝试重连. 重连次数：23/0 
+[2022-11-16 16:22:02] [WARNING]: 尝试重连... 
+[2022-11-16 16:22:23] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-16 16:22:23] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:22:45] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-16 16:22:45] [WARNING]: 将在 3 秒后尝试重连. 重连次数：24/0 
+[2022-11-16 16:22:48] [WARNING]: 尝试重连... 
+[2022-11-16 16:23:09] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-16 16:23:09] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:23:31] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-16 16:23:31] [WARNING]: 将在 3 秒后尝试重连. 重连次数：25/0 
+[2022-11-16 16:23:34] [WARNING]: 尝试重连... 
+[2022-11-16 16:23:55] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-16 16:23:55] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:24:17] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-16 16:24:17] [WARNING]: 将在 3 秒后尝试重连. 重连次数：26/0 
+[2022-11-16 16:24:20] [WARNING]: 尝试重连... 
+[2022-11-16 16:24:41] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-16 16:24:41] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:25:04] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-16 16:25:04] [WARNING]: 将在 3 秒后尝试重连. 重连次数：27/0 
+[2022-11-16 16:25:07] [WARNING]: 尝试重连... 
+[2022-11-16 16:25:28] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-16 16:25:28] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:25:50] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-16 16:25:50] [WARNING]: 将在 3 秒后尝试重连. 重连次数：28/0 
+[2022-11-16 16:25:53] [WARNING]: 尝试重连... 
+[2022-11-16 16:26:14] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-16 16:26:14] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:26:36] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-16 16:26:36] [WARNING]: 将在 3 秒后尝试重连. 重连次数：29/0 
+[2022-11-16 16:26:39] [WARNING]: 尝试重连... 
+[2022-11-16 16:27:00] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-16 16:27:00] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:27:22] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-16 16:27:22] [WARNING]: 将在 3 秒后尝试重连. 重连次数：30/0 
+[2022-11-16 16:27:25] [WARNING]: 尝试重连... 
+[2022-11-16 16:27:46] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-16 16:27:46] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:28:08] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-16 16:28:08] [WARNING]: 将在 3 秒后尝试重连. 重连次数：31/0 
+[2022-11-16 16:28:11] [WARNING]: 尝试重连... 
+[2022-11-16 16:28:32] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-16 16:28:32] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:28:54] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-16 16:28:54] [WARNING]: 将在 3 秒后尝试重连. 重连次数：32/0 
+[2022-11-16 16:28:57] [WARNING]: 尝试重连... 
+[2022-11-16 16:29:18] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-16 16:29:18] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:29:40] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-16 16:29:40] [WARNING]: 将在 3 秒后尝试重连. 重连次数：33/0 
+[2022-11-16 16:29:43] [WARNING]: 尝试重连... 
+[2022-11-16 16:30:04] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-16 16:30:04] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:30:26] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-16 16:30:26] [WARNING]: 将在 3 秒后尝试重连. 重连次数：34/0 
+[2022-11-16 16:30:29] [WARNING]: 尝试重连... 
+[2022-11-16 16:30:50] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-16 16:30:50] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:31:12] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-16 16:31:12] [WARNING]: 将在 3 秒后尝试重连. 重连次数：35/0 
+[2022-11-16 16:31:15] [WARNING]: 尝试重连... 
+[2022-11-16 16:31:36] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-16 16:31:36] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:31:58] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-16 16:31:58] [WARNING]: 将在 3 秒后尝试重连. 重连次数：36/0 
+[2022-11-16 16:32:01] [WARNING]: 尝试重连... 
+[2022-11-16 16:32:22] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-16 16:32:22] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:32:44] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-16 16:32:44] [WARNING]: 将在 3 秒后尝试重连. 重连次数：37/0 
+[2022-11-16 16:32:47] [WARNING]: 尝试重连... 
+[2022-11-16 16:32:55] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:61864->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 16:32:55] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61864->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 16:33:09] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-16 16:33:09] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-16 16:34:09] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-16 16:34:09] [WARNING]: 恢复会话失败: dial tcp error: dial tcp 42.81.172.81:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. , 尝试使用正常流程登录. 
+[2022-11-16 16:34:11] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-11-16 16:34:11] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-11-16 16:34:11] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-11-16 16:34:11] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-11-16 16:34:37] [FATAL]: 扫码被用户取消. 
+[2022-11-16 16:34:52] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-11-16 16:34:52] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-11-16 16:34:52] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-11-16 16:34:52] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-11-16 16:34:59] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=qXeZJ45r&style=simple&aid=16&uin=2318247512&sid=162820914779824299&cap_cd=JN46l61PTLKPtio_E4MwBWGLapBJBsbLWzOCfXjvCsiDFKpxRqR64g**&clientype=1&apptype=2 
+[2022-11-16 16:35:23] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-11-16 16:35:43] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-11-16 16:35:43] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-11-16 16:35:43] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-11-16 16:35:43] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-11-16 16:35:53] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=lOW8CYFa&style=simple&aid=16&uin=2318247512&sid=4205354999765835998&cap_cd=23kPknVsuMvOCi2fprfhmJ93zlGpgtIygF3J9-qukZLf5jTHW-yBDQ**&clientype=1&apptype=2 
+[2022-11-16 16:36:11] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-11-16 16:36:11] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-11-16 16:36:11] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-11-16 16:36:11] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-11-16 16:36:37] [FATAL]: 扫码被用户取消. 
+[2022-11-16 16:36:53] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-11-16 16:36:53] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-11-16 16:36:53] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-11-16 16:36:53] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-11-16 16:36:59] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=rbMLmArs&style=simple&aid=16&uin=2318247512&sid=8053142541563109669&cap_cd=X0bKTSOuCKLNmBvJAmgsKR5JDvJHSKltvB_UhI62gL8UeRHlYAB8Dw**&clientype=1&apptype=2 
+[2022-11-16 16:38:15] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-11-16 16:41:59] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-11-16 16:41:59] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-11-16 16:41:59] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-11-16 16:41:59] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-11-16 16:42:09] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=tZdjeHBY&style=simple&aid=16&uin=2318247512&sid=2745250759769891414&cap_cd=5zoGmU1qRzFnRczotO1Qhwn7L4wQ_bagYd3xhMXC5juG110xCIWmlg**&clientype=1&apptype=2 
+[2022-11-16 16:42:10] [WARNING]: 获取 Ticket 时出现错误: Get "https://captcha.go-cqhttp.org/captcha/ticket?id=tZdjeHBY": read tcp 192.168.134.242:53117->104.21.37.218:443: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 16:42:50] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-11-16 16:42:50] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-11-16 16:42:50] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-11-16 16:42:50] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-11-16 16:44:27] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:61171->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 16:44:29] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61171->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 16:44:32] [WARNING]: Bot已离线: connection dropped by server. 
+[2022-11-16 16:44:35] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-11-16 16:44:38] [WARNING]: 尝试重连... 
+[2022-11-16 16:46:53] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:62431->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 16:46:54] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:62431->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 17:26:04] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:59220->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 17:26:09] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:59220->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 17:31:29] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:61274->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 17:31:34] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61274->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 17:32:22] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:61395->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 17:32:24] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61395->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 17:34:04] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:61429->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 17:34:06] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61429->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 17:34:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 17:34:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 17:35:33] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:61478->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 17:35:34] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61478->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 17:37:31] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:61505->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 17:37:34] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61505->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 17:37:51] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:61557->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 17:37:54] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61557->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 17:38:52] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:61574->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 17:38:54] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61574->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 17:39:31] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:61597->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 17:39:34] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61597->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 17:41:50] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:61612->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 17:41:54] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61612->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 17:41:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 18:39:20] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:61755->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 18:39:24] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61755->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 18:40:53] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52454->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 18:40:54] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52454->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 18:40:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 18:41:50] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52494->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 18:41:54] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52494->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 18:42:28] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52552->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 18:42:29] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52552->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 18:54:52] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52571->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 18:54:54] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52571->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 18:56:23] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52948->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 18:56:24] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52948->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 19:02:04] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52987->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 19:02:04] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52987->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 19:02:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:02:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:02:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:02:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:02:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:02:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:02:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:02:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:02:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:02:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:02:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:03:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:03:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:03:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:03:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:03:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:03:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:03:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:03:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:03:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:03:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:03:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:04:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:04:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:04:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:04:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:04:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:04:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:04:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:04:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:04:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:04:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:04:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:04:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:05:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:05:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:05:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:05:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:05:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:05:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:05:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:05:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:05:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:05:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:05:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:05:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:06:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:06:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:06:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:06:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:06:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:06:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:06:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:11:36] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53270->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 19:11:39] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53270->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 19:11:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:13:29] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53408->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 19:13:34] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53408->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 19:16:01] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53443->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 19:16:04] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53443->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 19:17:25] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53500->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 19:17:29] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53500->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 19:18:23] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53536->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 19:18:24] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53536->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 19:30:26] [WARNING]: 好友消息发送失败: 消息为空. 
+[2022-11-16 19:30:45] [WARNING]: 好友消息发送失败: 消息为空. 
+[2022-11-16 19:41:01] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53556->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 19:41:04] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53556->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 19:42:24] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54041->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 19:42:29] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54041->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 19:49:00] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54100->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 19:49:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54100->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 19:49:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 19:50:45] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:55517->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 19:50:46] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:55517->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 20:13:21] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:55544->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 20:13:22] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:55544->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 20:14:16] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:56382->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 20:14:19] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:56382->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 20:14:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 20:15:37] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:61342->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 20:15:39] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61342->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 20:33:20] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:61368->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 20:33:24] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61368->127.0.0.1:8080: use of closed network connection 
+[2022-11-16 20:35:42] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:61862->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 20:35:44] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61862->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 20:35:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-16 20:45:37] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:61917->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 20:45:39] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61917->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 20:47:32] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:62198->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 20:47:34] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:62198->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 20:54:55] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:62271->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 20:54:58] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:62271->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 22:32:43] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:59328->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-16 22:32:44] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:59328->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 

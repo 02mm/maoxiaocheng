@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=0.3">
+    <link rel="shortcut icon"	href="../static/image/yd_logo.ico">
+    <style>
+        html{
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            /*background-image: url("../static/image/VCG41N1185237394.webp");*/
+            /*background-repeat:no-repeat;*/
+            /*background-attachment:fixed;*/
+            /*background-size:100% 100%;*/
+            display: block;
+            margin: -24px 0 0 0;
+            padding: 0;
+            /*background: linear-gradient(top left, white, blue);!*渐变从左上角到右下角*!*/
+            /*background: -ms-linear-gradient(top left, white, blue);*/
+            background: -webkit-linear-gradient(top left, white, #fafed0);
+            /*background: -moz-linear-gradient(top left, white, blue);*/
+        }
+        .nav{
+            height: 90px;
+            width: 100%;
+            background-color:  hsl(0deg 0% 100%);
+            padding: 0;
+            position: fixed;
+            top: 0;
+            z-index: 5;
+            display: flex;
+        }
+        .one{
+            margin: 140px 0 0 0;
+            display: flex;
+            justify-content: space-around;
+        }
+        .two{
+            margin-top: 50px;
+            display: flex;
+            justify-content: space-around;
+            padding-bottom: 50px;
+        }
+        .java,.ai,.html,.cpu,.design,.secre{
+            overflow: auto;
+            height: 450px;
+            width: 400px;
+            border-radius: 10px;
+        }
+        table {
+            font-family: "Fraunces", serif;
+            font-size: 125%;
+            white-space: nowrap;
+            margin: 0;
+            border-collapse: separate;
+            border-spacing: 0;
+            table-layout: fixed;
+            border: none;
+            /*border: 1px solid black;*/
+        }
+        table thead th {
+            padding: 3px;
+            position: sticky;
+            top: 0;
+            z-index: 1;
+            width: 25vw;
+            background-color: hsl(46deg 100% 76%);
+            border-right: 1px black;
+            border-bottom: 0;
+            border-left: 0;
+            border-top:0;
+        }
+        table tbody th {
+            font-weight: 100;
+            font-style: italic;
+            text-align: left;
+            position: relative;
+        }
+        table thead th:first-child {
+            position: sticky;
+            left: 0;
+            z-index: 2;
+        }
+        table tbody th {
+            position: sticky;
+            left: 0;
+            z-index: 1;
+            background-color: hsl(46deg 100% 76%);
+        }
+        .title{
+            font-size: xxx-large;
+            font-family: "Yu Gothic Light",fangsong;
+            border: none;
+            width: 70%;
+            text-align: center;
+            margin-left: 100px;
+        }
+        button{
+            height: 40px;
+            width: 82px;
+            font-size: 13px;
+            margin-top: 30px;
+            margin-left: 20px;
+        }
+        select{
+            height: 30px;
+            margin-top: 35px;
+            margin-left: 30px;
+        }
+        p{
+            margin-top: 42px;
+            font-size: xx-small;
+        }
+    </style>
+    <script>
+        function s_click(obj) {
+            var num = 0;
+            for (var i = 0; i < obj.options.length; i++) {
+                if (obj.options[i].selected == true) {
+                    num++;
+                }
+            }
+            if (num == 1) {
+                var url = obj.options[obj.selectedIndex].value;
+                window.open(url, "_blank"); //这里修改打开连接方式
+            }
+        }
+    </script>
+    <title>小毛请假</title>
+</head>
+
+<body>
+        <div class="nav">
+            <h1 class="title">小毛请假系统-本周请假人员</h1>
+            <button onclick="window.location.href='http://127.0.0.1:5000/adjust'" type="button">
+                调研学信息
+            </button>
+            <select name="download" onchange="s_click(this)">
+                <option value="">Download</option>
+                <option value="http://127.0.0.1:5000/excel_download?dir=all">所有方向</option>
+                <option value="http://127.0.0.1:5000/excel_download?dir=ai">人工智能</option>
+                <option value="http://127.0.0.1:5000/excel_download?dir=java">Java</option>
+                <option value="http://127.0.0.1:5000/excel_download?dir=html">全栈</option>
+                <option value="http://127.0.0.1:5000/excel_download?dir=cpu">CPU&OS</option>
+                <option value="http://127.0.0.1:5000/excel_download?dir=desgin">设计</option>
+                <option value="http://127.0.0.1:5000/excel_download?dir=serce">秘书处</option>
+            </select>
+            <p>*包含调研学信息</p>
+        </div>
+    <div class="one">
+    <div class="ai">
+    <table border="1" cellpadding="3px">
+        <thead>
+            <tr>
+                <th>人工智能</th>
+                <th>姓名</th>
+                <th>请假时间</th>
+                <th>请假理由</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for p in data.ai_data %}
+            <tr>
+                <th scope="row">{{p.id}}</th>
+                <td>{{p.name}}</td>
+                <td>{{p.date}}</td>
+                <td>{{p.reason}}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    </div>
+        <div class="java">
+            <table border="1" cellspacing="3">
+                <thead>
+                    <tr>
+                        <th>Java</th>
+                        <th>姓名</th>
+                        <th>请假时间</th>
+                        <th>请假理由</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for p in data.java_data %}
+                    <tr>
+                        <th scope="row">{{p.id}}</th>
+                        <td>{{p.name}}</td>
+                        <td>{{p.date}}</td>
+                        <td>{{p.reason}}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            </div>
+        <div class="html">
+            <table border="1" cellspacing="3">
+                    <thead>
+                            <th>全栈</th>
+                            <th>姓名</th>
+                            <th>请假时间</th>
+                            <th>请假理由</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for p in data.html_data %}
+                        <tr>
+                            <th scope="row">{{p.id}}</th>
+                            <td>{{p.name}}</td>
+                            <td>{{p.date}}</td>
+                            <td>{{p.reason}}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="two">
+        <div class="cpu">
+            <table border="1" cellspacing="3">
+                    <thead>
+                        <tr>
+                            <th>CPU&OS</th>
+                            <th>姓名</th>
+                            <th>请假时间</th>
+                            <th>请假理由</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for p in data.cpu_data %}
+                        <tr>
+                            <th scope="row">{{p.id}}</th>
+                            <td>{{p.name}}</td>
+                            <td>{{p.date}}</td>
+                            <td>{{p.reason}}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+            </table>
+        </div>
+        <div class="design">
+            <table border="1"  cellspacing="3">
+                    <thead>
+                        <tr>
+                            <th>设计</th>
+                            <th>姓名</th>
+                            <th>请假时间</th>
+                            <th>请假理由</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for p in data.design_data %}
+                        <tr>
+                            <th scope="row">{{p.id}}</th>
+                            <td>{{p.name}}</td>
+                            <td>{{p.date}}</td>
+                            <td>{{p.reason}}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+            </table>
+        </div>
+        <div class="secre">
+            <table border="1" cellspacing="3">
+                    <thead>
+                        <tr>
+                            <th>秘书处</th>
+                            <th>姓名</th>
+                            <th>请假时间</th>
+                            <th>请假理由</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for p in data.secre_data %}
+                        <tr>
+                            <th scope="row">{{p.id}}</th>
+                            <td>{{p.name}}</td>
+                            <td>{{p.date}}</td>
+                            <td>{{p.reason}}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+
+
+</html>

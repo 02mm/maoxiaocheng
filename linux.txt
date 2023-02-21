@@ -1,0 +1,4 @@
+/www/server/python_manager/versions/3.8.5/bin/python3
+/www/server/python_manager/versions/3.8.5/bin/pip3
+AMap_adcode_citycode.xlsx
+/data/qq_robte/go-cqhttp_windows_386/function/order/plugins

@@ -1,0 +1,134 @@
+[2022-11-17 08:43:35] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-17 10:35:09] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:64756->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-17 10:35:13] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:64756->127.0.0.1:8080: use of closed network connection 
+[2022-11-17 11:07:08] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-17 11:10:15] [WARNING]: Bot已离线: 服务端强制下线. 
+[2022-11-17 11:10:15] [ERROR]: Protocol -> parse incoming packet error: invalid packet type 
+[2022-11-17 11:10:18] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-11-17 11:10:21] [WARNING]: 尝试重连... 
+[2022-11-17 11:10:21] [WARNING]: 快速重连失败: exchange_emp failed: 40 
+[2022-11-17 11:10:21] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-17 11:10:23] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-11-17 11:10:23] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-11-17 11:10:23] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-11-17 11:10:23] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-11-17 11:10:30] [ERROR]: Protocol -> parse incoming packet error: session expired 
+[2022-11-17 11:10:33] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=1n4stEZR&style=simple&aid=16&uin=2318247512&sid=33891915018905118&cap_cd=PHX4m5_BNB5VkR3VqGXRdTAlF1-cFwvn47MWLCjMsK9ZUvoc7HGnAw**&clientype=1&apptype=2 
+[2022-11-17 11:12:34] [WARNING]: 验证超时 
+[2022-11-17 11:13:14] [WARNING]: 恢复会话失败: exchange_emp failed: 16 , 尝试使用正常流程登录. 
+[2022-11-17 11:13:16] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-11-17 11:13:16] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-11-17 11:13:16] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-11-17 11:13:16] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-11-17 11:13:26] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=KQNbVaEM&style=simple&aid=16&uin=2318247512&sid=1503393393134642891&cap_cd=b5mbGki8q1yqzjrfXilMnMJKR1Q6f7wL-nDwd7rrcT0hKDKOG4Loog**&clientype=1&apptype=2 
+[2022-11-17 11:14:09] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-11-17 11:14:09] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-11-17 11:14:09] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-11-17 11:14:09] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-11-17 11:14:19] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=erlgqJNx&style=simple&aid=16&uin=2318247512&sid=6769285359755175681&cap_cd=UHi7kjRGYkzzVrctVe-_lr-LH_WK80Bfu-cnRYI7mbhIvUuLbwzj0A**&clientype=1&apptype=2 
+[2022-11-17 11:14:59] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-11-17 11:16:06] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-11-17 11:16:06] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-11-17 11:16:06] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-11-17 11:16:06] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-11-17 11:16:58] [FATAL]: 遇到错误: Packet failed to sendPacket: connection closed 
+[2022-11-17 11:18:21] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-11-17 11:18:21] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-11-17 11:18:21] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-11-17 11:18:21] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-11-17 12:28:57] [WARNING]: Bot已离线: connection dropped by server. 
+[2022-11-17 12:29:00] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-11-17 12:29:03] [WARNING]: 尝试重连... 
+[2022-11-17 12:29:24] [WARNING]: 快速重连失败: dial tcp error: dial tcp 111.30.169.66:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-17 12:29:24] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-17 12:29:46] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 120.232.31.239:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-17 12:29:46] [WARNING]: 将在 3 秒后尝试重连. 重连次数：3/0 
+[2022-11-17 12:29:49] [WARNING]: 尝试重连... 
+[2022-11-17 12:30:11] [WARNING]: 快速重连失败: dial tcp error: dial tcp 36.155.201.162:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-17 12:30:11] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-17 12:30:33] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 111.31.205.202:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-17 12:30:33] [WARNING]: 将在 3 秒后尝试重连. 重连次数：4/0 
+[2022-11-17 12:30:36] [WARNING]: 尝试重连... 
+[2022-11-17 12:30:57] [WARNING]: 快速重连失败: dial tcp error: dial tcp 120.232.130.20:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-17 12:30:57] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-17 12:31:19] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 36.155.208.73:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-17 12:31:19] [WARNING]: 将在 3 秒后尝试重连. 重连次数：5/0 
+[2022-11-17 12:31:22] [WARNING]: 尝试重连... 
+[2022-11-17 12:31:43] [WARNING]: 快速重连失败: dial tcp error: dial tcp 111.31.205.202:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-17 12:31:43] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-17 12:32:05] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 111.31.205.233:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-17 12:32:05] [WARNING]: 将在 3 秒后尝试重连. 重连次数：6/0 
+[2022-11-17 12:32:08] [WARNING]: 尝试重连... 
+[2022-11-17 12:32:29] [WARNING]: 快速重连失败: dial tcp error: dial tcp 111.31.205.243:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-17 12:32:29] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-17 12:32:51] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 111.30.170.211:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-17 12:32:51] [WARNING]: 将在 3 秒后尝试重连. 重连次数：7/0 
+[2022-11-17 12:32:54] [WARNING]: 尝试重连... 
+[2022-11-17 12:33:15] [WARNING]: 快速重连失败: dial tcp error: dial tcp 111.30.170.241:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-17 12:33:15] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-17 12:33:37] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 36.155.248.76:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-17 12:33:37] [WARNING]: 将在 3 秒后尝试重连. 重连次数：8/0 
+[2022-11-17 12:33:40] [WARNING]: 尝试重连... 
+[2022-11-17 12:34:01] [WARNING]: 快速重连失败: dial tcp error: dial tcp 111.30.187.240:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-17 12:34:01] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-17 12:34:23] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-17 12:34:23] [WARNING]: 将在 3 秒后尝试重连. 重连次数：9/0 
+[2022-11-17 12:34:26] [WARNING]: 尝试重连... 
+[2022-11-17 12:34:47] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-17 12:34:47] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-17 12:35:09] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-17 12:35:09] [WARNING]: 将在 3 秒后尝试重连. 重连次数：10/0 
+[2022-11-17 12:35:12] [WARNING]: 尝试重连... 
+[2022-11-17 12:35:33] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-17 12:35:33] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-17 12:35:55] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-17 12:35:55] [WARNING]: 将在 3 秒后尝试重连. 重连次数：11/0 
+[2022-11-17 12:35:58] [WARNING]: 尝试重连... 
+[2022-11-17 12:36:19] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-17 12:36:19] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-17 12:36:41] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-17 12:36:41] [WARNING]: 将在 3 秒后尝试重连. 重连次数：12/0 
+[2022-11-17 12:36:44] [WARNING]: 尝试重连... 
+[2022-11-17 12:37:05] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-17 12:37:05] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-17 12:37:27] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-17 12:37:27] [WARNING]: 将在 3 秒后尝试重连. 重连次数：13/0 
+[2022-11-17 12:37:30] [WARNING]: 尝试重连... 
+[2022-11-17 12:37:51] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-17 12:37:51] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-17 12:38:14] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-17 12:38:14] [WARNING]: 将在 3 秒后尝试重连. 重连次数：14/0 
+[2022-11-17 12:38:17] [WARNING]: 尝试重连... 
+[2022-11-17 12:38:38] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-17 12:38:38] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-17 12:39:00] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-17 12:39:00] [WARNING]: 将在 3 秒后尝试重连. 重连次数：15/0 
+[2022-11-17 12:39:03] [WARNING]: 尝试重连... 
+[2022-11-17 12:39:24] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-17 12:39:24] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-17 12:39:46] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-17 12:39:46] [WARNING]: 将在 3 秒后尝试重连. 重连次数：16/0 
+[2022-11-17 12:39:49] [WARNING]: 尝试重连... 
+[2022-11-17 12:40:10] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-17 12:40:10] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-17 12:40:32] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-17 12:40:32] [WARNING]: 将在 3 秒后尝试重连. 重连次数：17/0 
+[2022-11-17 12:40:35] [WARNING]: 尝试重连... 
+[2022-11-17 12:40:56] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-17 12:40:56] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-17 12:41:18] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-17 12:41:18] [WARNING]: 将在 3 秒后尝试重连. 重连次数：18/0 
+[2022-11-17 12:41:21] [WARNING]: 尝试重连... 
+[2022-11-17 12:41:42] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-17 12:41:42] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-17 12:42:04] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-11-17 12:42:04] [WARNING]: 将在 3 秒后尝试重连. 重连次数：19/0 
+[2022-11-17 12:42:07] [WARNING]: 尝试重连... 
+[2022-11-17 12:42:28] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-11-17 12:42:28] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-17 12:42:30] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-11-17 12:42:30] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-11-17 12:42:30] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-11-17 12:42:30] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-11-17 13:20:25] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-17 23:35:23] [WARNING]: Protocol -> device lock is disable. http api may fail. 

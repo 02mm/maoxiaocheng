@@ -1,0 +1,71 @@
+[2022-11-21 20:32:53] [WARNING]: 恢复会话失败: exchange_emp failed: 16 , 尝试使用正常流程登录. 
+[2022-11-21 20:32:54] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-11-21 20:32:54] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-11-21 20:32:54] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-11-21 20:32:54] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-11-21 20:33:39] [FATAL]: 遇到错误: Packet failed to sendPacket: connection closed 
+[2022-11-21 20:52:43] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-11-21 20:52:43] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-11-21 20:52:43] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-11-21 20:52:43] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-11-21 20:53:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-21 20:53:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-21 20:57:51] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2022-11-21 20:57:58] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 20:58:34] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 20:58:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-21 20:58:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-21 20:58:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-21 21:04:23] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 21:04:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-21 21:04:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-21 21:04:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-21 21:27:48] [WARNING]: 恢复会话失败: exchange_emp failed: 15 , 尝试使用正常流程登录. 
+[2022-11-21 21:27:50] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-11-21 21:28:16] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-11-21 21:29:27] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-11-21 21:29:39] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-11-21 21:30:41] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-21 21:30:41] [WARNING]: 将在 5秒 后继续. 
+[2022-11-21 21:31:08] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 21:31:38] [ERROR]: Protocol -> sync channel error: Packet failed to sendPacket: connection closed 
+[2022-11-21 21:31:38] [FATAL]: 遇到错误: Packet failed to sendPacket: connection closed 
+[2022-11-21 21:32:17] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-11-21 21:34:37] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-11-21 21:36:41] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-11-21 21:58:01] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-11-21 21:58:53] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-11-21 21:58:53] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-11-21 21:58:53] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-11-21 21:58:53] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-11-21 21:59:44] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-11-21 21:59:44] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-11-21 21:59:44] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-11-21 21:59:44] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-11-21 22:02:22] [WARNING]: 发送临时会话消息失败: 已关闭临时会话信息发送功能 
+[2022-11-21 22:06:22] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 22:09:14] [WARNING]: Bot已离线: 服务端强制下线. 
+[2022-11-21 22:09:17] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-11-21 22:09:20] [WARNING]: 尝试重连... 
+[2022-11-21 22:09:21] [WARNING]: 快速重连失败: exchange_emp failed: 40 
+[2022-11-21 22:09:21] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-11-21 22:09:22] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-11-21 22:09:22] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-11-21 22:09:22] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-11-21 22:09:22] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-11-21 22:09:32] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=lQoD1gQ6&style=simple&aid=16&uin=2318247512&sid=7200702317693994642&cap_cd=jrAE1m-FTrpuCjPojA6IcuoA0eNT6DLBufsJkX6gt48nSx6xGbMLZQ**&clientype=1&apptype=2 
+[2022-11-21 22:11:04] [WARNING]: 获取 Ticket 时出现错误: Get "https://captcha.go-cqhttp.org/captcha/ticket?id=lQoD1gQ6": read tcp 192.168.68.232:49191->172.67.213.155:443: wsarecv: An established connection was aborted by the software in your host machine. 
+[2022-11-21 22:14:16] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2022-11-21 22:14:40] [WARNING]: 恢复会话失败: exchange_emp failed: 16 , 尝试使用正常流程登录. 
+[2022-11-21 22:14:54] [FATAL]: 扫码被用户取消. 
+[2022-11-21 22:15:17] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-21 22:15:17] [WARNING]: 将在 5秒 后继续. 
+[2022-11-21 22:15:48] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 22:20:46] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.134.242:63703->111.31.205.233:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-21 22:21:08] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 111.30.187.245:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-21 22:21:08] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 111.30.187.245:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-21 22:21:08] [WARNING]: Bot已离线: connection dropped by server. 
+[2022-11-21 22:21:11] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-11-21 22:21:14] [WARNING]: 尝试重连... 
+[2022-11-21 22:21:14] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 22:21:20] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:63770->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
